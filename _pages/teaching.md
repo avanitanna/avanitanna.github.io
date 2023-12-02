@@ -2,11 +2,13 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: I enjoy teaching from time to time - it teaches me a lot and it is a nice way to give back to the community!  
 nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+* [Introduction to Data Science](https://datascience.ucsb.edu/course/1) - I will be joining [UC Santa Barbara](https://www.ucsb.edu/) as a part time lecturer to teach an introductory course in Data Science with LLMs! 
+* [Introduction to Computer Science](https://cs.ucsb.edu/education/courses/course-descriptions/introduction-computer-science) - I was a teaching assistant for this course at UC Santa Barbara for 100+ students.
+* [Probability and Statistics](https://www.ee.iitb.ac.in/~bsraj/courses/ee325/infoEE325.pdf) - I was a teaching assistant at [IIT Bombay](https://www.iitb.ac.in/) for this course for 50+ students.
 
-Organize your courses by years, topics, or universities, however you like!
+
