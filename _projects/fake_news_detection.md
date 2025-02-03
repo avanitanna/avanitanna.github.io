@@ -7,7 +7,7 @@ importance: 3
 category: fun 
 ---
 
-In the age of fake news and inspired by graph based machine learning techniques, in this project, I worked with propagation-based approaches and real-world data to help detect fake news. Check out our [github](https://github.com/avanitanna/fake-news-detection) repository for more details!
+In the age of fake news and inspired by graph based machine learning techniques, in this project, I worked with propagation-based approaches and real-world data to help detect fake news. Check out our <a href="https://github.com/avanitanna/fake-news-detection">github</a> repository for more details!
 
 I constructed a new dataset based on the MuMiN dataset using Twitter API for tweet extraction. I also created an end-to-end data collection framework using Twitter API (v1 and v2 endpoints) that builds a graph structure for Graph Neural Network (GNN) models starting from any root tweets. 
 
