@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-part-1-unlocking-the-power-of-llms-for-the-cashflow-game",
+        },{id: "post-recipe-finder-agent-using-smolagents",
+      
+        title: "Recipe Finder Agent using smolagents",
+      
+      description: "Recipe recommendation",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/hf-recipe-agent/";
+        
+      },
+    },{id: "post-part-1-unlocking-the-power-of-llms-for-the-cashflow-game",
       
         title: "[Part 1] Unlocking the Power of LLMs for the Cashflow Game",
       
