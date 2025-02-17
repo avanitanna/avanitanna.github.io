@@ -23,6 +23,7 @@ The Recipe Finder Agent is designed to solve a common household problem: What ca
 - Ingredients you have available
 - Dietary restrictions 
 - Cuisine type preferences
+- Optionally suggest your favorite recipe sites 
 
 Thought-Action-Observation cycle: 
 The agent works by leveraging the ReAct approach through which the agent is able to "think" step by step in order to generate a plan before jumping to the final answer. Thoughts represent the Agent’s internal reasoning and planning processes to solve the task and are responsible for accessing current observations and decide what the next action(s) should be. Actions are the concrete steps the AI agent takes to interact with its environment. For example, a code agent writes a code block that is interpreted externally. Observations are how an Agent perceives the consequences of its actions. The information provided by observations feeds back into the agent and improves its thought process and guides future actions.
