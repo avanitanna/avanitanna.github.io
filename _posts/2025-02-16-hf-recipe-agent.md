@@ -5,8 +5,6 @@ date: 2025-02-16
 description: "Recipe recommendation"
 #tags: [tag1, tag2]
 #categories: [category1]
-#featured: true  # If you want it featured on the main page
-#thumbnail: "/path/to/your/image.jpg"  # Optional, if you want to add an image
 ---
 
 As an AI enthusiast and home cook, I built a Recipe Finder Agent using Hugging Face’s smolagents framework. This agent is designed to solve a common problem: figuring out what to cook with the ingredients you already have, while respecting dietary restrictions and cuisine preferences. The agent articularly focus on the crucial "thought-action-observation" cycle that drives its behavior. [Smolagents](https://github.com/huggingface/smolagents) is a library that focuses on `codeAgent`, a kind of agent that performs “Actions” through code blocks, and then “Observes” results by executing the code. 
