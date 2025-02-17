@@ -50,12 +50,10 @@ The system also uses a clever fact-tracking mechanism to maintain context.
 Check out this [repo](https://huggingface.co/spaces/vntnn/First_agent_template/tree/main) for implementation details. 
 
 #### [Recommended] How to run the codeAgent (more securely):
-
-Note that you'll have to set your HF token first in an `.env` file if you choose to use dotenv. 
-
-It is recommended to run a code agent using a docker container, e.g., `docker run -it ubuntu:latest bin/bash`. 
-
-[Warning!] Once you run `python3 app.py`, it spawns a public URL that is linked to your container. HF claims that it runs using a secure local Python Interpretor https://smolagents.org/docs/secure-code-execution-of-smolagents/. 
+Here are some recommendations:
+- Note that you'll have to set your HF token first in an `.env` file if you choose to use dotenv. 
+- It is recommended to run a code agent using a docker container, e.g., `docker run -it ubuntu:latest bin/bash`. 
+- [Warning!] Once you run `python3 app.py`, it spawns a public URL that is linked to your container. HF claims that it runs using a secure local Python Interpretor https://smolagents.org/docs/secure-code-execution-of-smolagents/. 
 
 #### Building your own agentic workflows
 Here are some key principles for effective agentic workflows:
