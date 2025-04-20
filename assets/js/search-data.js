@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-recipe-finder-agent-using-smolagents",
+        },{id: "post-news-automation-system",
+      
+        title: "News Automation System",
+      
+      description: "Get your news summary every morning -- powered by LangGraph and Deepseek",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/news-agent/";
+        
+      },
+    },{id: "post-recipe-finder-agent-using-smolagents",
       
         title: "Recipe Finder Agent using smolagents",
       
