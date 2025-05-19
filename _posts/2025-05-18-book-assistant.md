@@ -20,10 +20,10 @@ This project provides:
 The tool uses **Deepseek** via **OpenRouter**, which is easy to use and free! Deepseek does a good job of summarization and flashcard creation, but you can also switch to a different model by updating the LLM integration in the code.
 
 #### 💻 Code
-You can find the code implementation [here](https://github.com/avanitanna/book-assistant).
+You can find the code implementation [here](https://github.com/avanitanna/reading-assistant).
 
 #### 🎬 See It in Action
-I recently recorded a  [demo](https://github.com/avanitanna/book-assistant/blob/main/video-book-assistant.mp4) using a Project Gutenberg ebook titled *"Inventions in the Century."* In this demo, I walk through how to summarize chapters and generate flashcards using the Reading Assistant. It’s a great example of how LLMs can transform your reading and study habits.
+I recently recorded a  [demo](https://github.com/avanitanna/reading-assistant/blob/main/video-book-assistant.mp4) using a Project Gutenberg ebook titled *"Inventions in the Century."* In this demo, I walk through how to summarize chapters and generate flashcards using the Reading Assistant. It’s a great example of how LLMs can transform your reading and study habits.
 
 #### 🚀 Ideas to Expand It
 
