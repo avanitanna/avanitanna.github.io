@@ -33,5 +33,5 @@ I recently recorded a  [demo](https://github.com/avanitanna/reading-assistant/bl
 - **Support for Other Content Types**: Use it with research papers, articles, or any text content.
 - **RAG Workflow**: Ask questions directly based on selected chapters or the entire book.
 
-Follow me on LinkedIn for more content and projects in the space!
+Follow me on [LinkedIn](https://www.linkedin.com/in/avani-tanna/) for more content and projects in the space!
 
