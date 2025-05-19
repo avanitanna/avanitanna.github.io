@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-news-automation-system",
+        },{id: "post-reading-assistant",
+      
+        title: "Reading Assistant",
+      
+      description: "Read books/papers efficiently using LLMs -- powered by Deepseek",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/book-assistant/";
+        
+      },
+    },{id: "post-news-automation-system",
       
         title: "News Automation System",
       
