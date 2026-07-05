@@ -23,13 +23,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching_mentoring/";
           },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "These are some selected projects. Contact me if you want to collaborate on interesting projects or learn more about my work!",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
-          },
         },{id: "nav-publications",
           title: "publications",
           description: "",
@@ -44,51 +37,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-reading-assistant",
-      
-        title: "Reading Assistant",
-      
-      description: "Read books/papers efficiently using LLMs -- powered by Deepseek",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2025/book-assistant/";
-        
-      },
-    },{id: "post-news-automation-system",
-      
-        title: "News Automation System",
-      
-      description: "Get your news summary every morning -- powered by LangGraph and Deepseek",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2025/news-agent/";
-        
-      },
-    },{id: "post-recipe-finder-agent-using-smolagents",
-      
-        title: "Recipe Finder Agent using smolagents",
-      
-      description: "Recipe recommendation",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2025/hf-recipe-agent/";
-        
-      },
-    },{id: "post-part-1-unlocking-the-power-of-llms-for-the-cashflow-game",
-      
-        title: "[Part 1] Unlocking the Power of LLMs for the Cashflow Game",
-      
-      description: "Introduction -- Unlocking the Power of LLMs for the Cashflow Game",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2025/cashflow-1/";
-        
-      },
-    },{id: "projects-bionic-vision",
+        },{id: "projects-bionic-vision",
           title: 'Bionic Vision',
           description: "Evaluating Subretinal Prosthetic Implant Simulation for Visual Acuity",
           section: "Projects",handler: () => {
