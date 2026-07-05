@@ -3,6 +3,7 @@ layout: post
 title: "News Automation System"
 date: 2025-04-19
 description: "Get your news summary every morning -- powered by LangGraph and Deepseek"
+published: false
 ---
 
 In this project, I built a LangGraph and Deepseek powered News Automation System that leverages asynchronous processing to deliver curated news summaries directly to your inbox (for instance, every morning!). 

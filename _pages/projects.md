@@ -7,6 +7,7 @@ nav: true
 nav_order: 3
 display_categories: [fun] #, work
 horizontal: false
+published: false
 ---
 
 <!-- pages/projects.md -->

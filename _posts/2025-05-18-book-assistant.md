@@ -3,6 +3,7 @@ layout: post
 title: "Reading Assistant"
 date: 2025-05-18
 description: "Read books/papers efficiently using LLMs -- powered by Deepseek"
+published: false
 ---
 
 Recently, I was inspired by a [video](https://youtu.be/EWvNQjAaOHw?si=MvlB9R8jOL6pjT1B) by Andrej Karpathy, where he showcases how he leverages large language models (LLMs). Around the 55–56 minute mark, he discusses the idea of using LLMs to enhance the reading experience—specifically for books and other long-form materials. Karpathy notes the lack of seamless tools for this purpose and shares how he uses LLMs for summarizing and querying content.
